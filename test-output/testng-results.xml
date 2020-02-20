@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68848" started-at="2020-02-20T04:12:10Z" finished-at="2020-02-20T04:13:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68848" started-at="2020-02-20T04:12:10Z" finished-at="2020-02-20T04:13:19Z">
+      <class name="driverScript.AppTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:driverScript.AppTest@42dafa95]" name="f" duration-ms="68835" started-at="2020-02-20T09:42:10Z" finished-at="2020-02-20T09:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- driverScript.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
